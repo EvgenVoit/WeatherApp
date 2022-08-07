@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="568108ea-a898-40ff-8471-48830cf7ba1e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CyWBK9meGNGxzxg7jF3loiviYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "b07369735f2ebbfa0ed08f377ddfc16e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.application.weatherApp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.application.weatherApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebWeatherApplication (5)">
+    <configuration name="WeatherStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-weather-app-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WeatherStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.application.weatherApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-weather" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WebWeatherApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.application.weatherApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-16.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="WeatherApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WebWeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="WeatherApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WebWeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-weather-app-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WebWeatherApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.application.weatherApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WeatherApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.application.weatherApp.WebWeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWeatherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-weather" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.pedrodellolio.webweather.WebWeatherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebWeatherApplication (4)" />
+        <item itemvalue="Spring Boot.WebWeatherApplication (3)" />
+        <item itemvalue="Spring Boot.WeatherStart" />
+        <item itemvalue="Spring Boot.WebWeatherApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="568108ea-a898-40ff-8471-48830cf7ba1e" name="Changes" comment="" />
+      <created>1659775168989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659775168989</updated>
+      <workItem from="1659775170408" duration="72000" />
+      <workItem from="1659789826369" duration="2027000" />
+      <workItem from="1659792097412" duration="3165000" />
+      <workItem from="1659857098233" duration="70000" />
+      <workItem from="1659857251131" duration="1098000" />
+      <workItem from="1659890242759" duration="51000" />
+      <workItem from="1659892872354" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
